@@ -1,4 +1,4 @@
-\# ☕ Coffee Shop Application (Java)
+## ☕ Coffee Shop Application (Java)
 
 ## 📌 Project Overview
 The Coffee Shop Application is a simple Java console-based program that demonstrates the concept of **Method Overloading**.
